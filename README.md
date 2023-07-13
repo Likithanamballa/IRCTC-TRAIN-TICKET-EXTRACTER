@@ -3,5 +3,5 @@
 
 Links:
 
-Website: http://irctctrainticketextracter.pythonanywhere.com/home
-Youtube: https://www.youtube.com/watch?v=dP5M4trj-qU&feature=youtu.be
+Website: http://irctctrainticketextracter.pythonanywhere.com
+Youtube: https://youtu.be/4mE9LXa4gjo
